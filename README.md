@@ -7,6 +7,7 @@
 
 ### Project Overview
 
+![Revenue Analysis](https://github.com/user-attachments/assets/64f82f69-2017-4c37-8528-8ac55aab3b35)
 
 ### Data Sources
 Revenue Data: The primay dataset used for this analysis is the
